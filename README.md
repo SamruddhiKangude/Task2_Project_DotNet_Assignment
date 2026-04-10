@@ -68,11 +68,14 @@ To run the included unit tests (which cover `StudentService`):
 ```bash
 dotnet test
 ```
+---
 
 ## 🔐 Default Credentials
 To access the Dashboard through the React UI, use the default seeded credentials:
 - **Username:** `admin`
 - **Password:** `admin123`
+
+---
 
 ## 🏗️ Architecture Design
 - **API Project:** Contains Controllers, Middleware, and API configuration.
@@ -81,8 +84,10 @@ To access the Dashboard through the React UI, use the default seeded credentials
 - **Tests Project:** xUnit testing logic.
 - **React UI:** Context API for Authentication handling, Axios interceptors, Framer Motion for premium UX.
 
-flowchart TD
+--- 
 
+## 🔄 Logic Flowchart ( flowchart TD )
+```mermaid
     A[Start] --> B[User Opens React UI]
     B --> C{Authenticated?}
 
@@ -161,4 +166,4 @@ flowchart TD
     S4 --> J
 
     J --> AA[End / Continue Using App]
-
+```
