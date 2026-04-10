@@ -91,6 +91,7 @@ To access the Dashboard through the React UI, use the default seeded credentials
 --- 
 
 ## 🔄 Logic Flowchart ( flowchart TD )
+
 ```mermaid
     A[Start] --> B[User Opens React UI]
     B --> C{Authenticated?}
