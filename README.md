@@ -98,7 +98,7 @@ flowchart TD
     A[Start] --> B[User Opens React UI]
     B --> C{Authenticated?}
 
-    C -- No --> D[Enter Username & Password]
+    C -- No --> D[Enter Username and Password]
     D --> E[Send Login Request to API]
     E --> F{Valid Credentials?}
 
@@ -106,7 +106,7 @@ flowchart TD
     G --> D
 
     F -- Yes --> H[Receive JWT Token]
-    H --> I[Store Token (LocalStorage)]
+    H --> I[Store Token - LocalStorage]
     I --> J[Redirect to Dashboard]
 
     C -- Yes --> J
@@ -162,7 +162,7 @@ flowchart TD
     N3 --> X
     N4 --> X
 
-    X --> Y[Log Error (Serilog)]
+    X --> Y[Log Error - Serilog]
     Y --> Z[Return Standard Error Response]
 
     Z --> J
@@ -172,5 +172,5 @@ flowchart TD
     T3 --> J
     S4 --> J
 
-    J --> AA[End / Continue Using App]
+    J --> AA[End or Continue Using App]
 ```
