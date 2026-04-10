@@ -93,16 +93,18 @@ To access the Dashboard through the React UI, use the default seeded credentials
 ## 🔄 Logic Flowchart ( flowchart TD )
 
 ```mermaid
+flowchart TD
+
     A[Start] --> B[User Opens React UI]
     B --> C{Authenticated?}
 
     C -- No --> D[Enter Username & Password]
     D --> E[Send Login Request to API]
     E --> F{Valid Credentials?}
-    
+
     F -- No --> G[Show Error Message]
     G --> D
-    
+
     F -- Yes --> H[Receive JWT Token]
     H --> I[Store Token (LocalStorage)]
     I --> J[Redirect to Dashboard]
