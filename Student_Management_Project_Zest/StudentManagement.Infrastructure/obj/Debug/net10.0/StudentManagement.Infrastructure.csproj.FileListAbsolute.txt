@@ -1,0 +1,17 @@
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\bin\Debug\net10.0\StudentManagement.Infrastructure.deps.json
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\bin\Debug\net10.0\StudentManagement.Infrastructure.runtimeconfig.json
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\bin\Debug\net10.0\StudentManagement.Infrastructure.dll
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\bin\Debug\net10.0\StudentManagement.Infrastructure.pdb
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\bin\Debug\net10.0\StudentManagement.Core.dll
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\bin\Debug\net10.0\StudentManagement.Core.pdb
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentM.54534901.Up2Date
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.dll
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\refint\StudentManagement.Infrastructure.dll
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.pdb
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\StudentManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\Samruddhi\OneDrive\Documents\Student_Management_Project_Zest\StudentManagement.Infrastructure\obj\Debug\net10.0\ref\StudentManagement.Infrastructure.dll
