@@ -7,7 +7,7 @@ A full-stack Student Management System built as a technical assignment.
 
 ## Features Included
 - **ASP.NET Core Web API 10.0** with Layered Architecture (Controllers, Services, Repositories)
-- **React UI** built with Vite, featuring a premium glassmorphic "anti-gravity" modern aesthetic powered by Framer Motion.
+- **React UI** built with Vite, featuring a premium modern aesthetic powered by Framer Motion.
 - **Dockerized Setup** for both Database and API
 - **JWT Authentication** (Secure API endpoints and login flow)
 - **Global Exception Handling Middleware** for unified error responses
