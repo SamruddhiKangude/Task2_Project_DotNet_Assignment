@@ -11,7 +11,7 @@ A full-stack Student Management System built as a technical assignment.
 - **Swagger UI** for API documentation
 - **Unit Testing** with xUnit and Moq
 - **Dockerized Setup** for both Database and API
-- **React UI** built with Vite, featuring a premium glassmorphic "anti-gravity" modern aesthetic powered by Framer Motion.
+- **React UI** built with Vite, featuring a modern aesthetic powered by Framer Motion.
 
 ---
 
